@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.DM-Sans {
+    font-family: 'DM Sans', sans-serif;
+}
+
+.Inter {
+    font-family: 'Inter', sans-serif
+}
+
+.SourceSans {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
