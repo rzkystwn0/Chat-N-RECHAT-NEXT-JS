@@ -13,7 +13,6 @@ export default function Document() {
         <link href="https://fonts.googleapis.com/css2?family=DM+Sans&family=Inter&family=Source+Sans+Pro&display=swap" rel="stylesheet" />
       </Head>
       <body>
-      /* eslint-disable */
         <Main />
         <NextScript />
       </body>
