@@ -16,7 +16,7 @@ export default function FaqPacking(){
             answer='Entar saya di culik lagi'
           />
            <DetailFaq 
-            question='Apakah bumi data atau bulat?'
+            question='Apakah bumi datar atau bulat?'
             answer='Menurut kami bumi itu donat sih'
           />
           <DetailFaq 
